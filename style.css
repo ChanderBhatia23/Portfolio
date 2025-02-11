@@ -109,7 +109,9 @@ align-items: center;
 gap: 8rem;
 background-color: black;
 }
-
+a{
+    text-decoration: none !important;
+}
 .contact table caption{
 color: aliceblue;
 
